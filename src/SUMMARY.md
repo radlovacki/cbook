@@ -2,6 +2,9 @@
 - [Увод](README.md)
 - [Животни циклус развоја софтвера](./sdlc.md)
 
+# Алгоритми
+- [Flowgorithm](./flowgorithm.md)
+
 # Интегрисана развојна окружења
 - [Visual Studio](./visualstudio.md)
 - [Visual Studio Code](./vscode.md)
