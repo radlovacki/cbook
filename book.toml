@@ -1,0 +1,6 @@
+[book]
+authors = ["Velimir Radlovački"]
+language = "en"
+multilingual = false
+src = "src"
+title = "cbook"
