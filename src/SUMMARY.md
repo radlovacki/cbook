@@ -9,5 +9,9 @@
 - [Visual Studio](./visualstudio.md)
 - [Visual Studio Code](./vscode.md)
 
+# Изрази и наредбе
+- [Оператори над битовима](./bitwiseoperators.md)
+
+
 # Функције
 - [Аргументи командне линије](./commandlinearguments.md)
