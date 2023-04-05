@@ -10,8 +10,9 @@
 - [Visual Studio Code](./vscode.md)
 
 # Изрази и наредбе
+- [ASCII](./ascii.md)
 - [Оператори над битовима](./bitwiseoperators.md)
-
+- [Коментари](./comments.md)
 
 # Функције
 - [Аргументи командне линије](./commandlinearguments.md)
