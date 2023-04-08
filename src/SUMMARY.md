@@ -14,5 +14,8 @@
 - [Оператори над битовима](./bitwiseoperators.md)
 - [Коментари](./comments.md)
 
+# Низови
+- [Selection Sort](./selectionsort.md)
+
 # Функције
 - [Аргументи командне линије](./commandlinearguments.md)
