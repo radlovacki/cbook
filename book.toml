@@ -1,9 +1,9 @@
 [book]
+title = "Програмски језик C"
 authors = ["Velimir Radlovački"]
-language = "en"
+language = "sr"
 multilingual = false
 src = "src"
-title = "cbook"
 
 [output.html]
 mathjax-support = true
