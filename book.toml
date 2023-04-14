@@ -7,3 +7,10 @@ src = "src"
 
 [output.html]
 mathjax-support = true
+
+[preprocessor.katex]
+renderers = ["html"]
+no-css = false
+include-src = false
+block-delimiter = {left = "$$", right = "$$"}
+inline-delimiter = {left = "$", right = "$"}

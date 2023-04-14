@@ -2,8 +2,6 @@
 
 [Програмски језик C](./README.md)
 
-# Програмирање за I и II разред
-
 - [Увод](./introduction.md)
   - [Животни циклус развоја софтвера](./sdlc.md)
   - [Програмски језици](./programminglanguages.md)
@@ -26,7 +24,7 @@
 - [Разгранате програмске структуре и алгоритми](./branchedstructures.md)
 - [Цикличне програмске структуре и алгоритми](./loopstructures.md)
 - [Једнодимензионални низови](./onedimensionalarrays.md)
-- [Selection Sort](./selectionsort.md)
+  - [Selection Sort](./selectionsort.md)
 - [Показивачи](./pointers.md)
 - [Вишедимензионални низови](./multidimensionalarrays.md)
 - [Функције](functions.md)
@@ -35,12 +33,13 @@
 - [Структурне и бинарне датотеке](./structuredbinaryfiles.md)
 - [Динамичке структуре података](./dynamicstructures.md)
 
------------
-
 # Збирка задатака
 
-- [Линијска структура програма](./workbook/proglinearstructures.md)
-  - [Геометрија](./workbook/lgeometry.md)
-    - [Тренинг](./workbook/ltraining.md)
-    - [Лист папира](./workbook/lpaper.md)
-    - [Столњак](./workbook/ltablecloth.md)
+- [Линијска структура програма](./wbl.md)
+  - [Геометрија](./wblgeometry.md)
+    - [Тренинг](wblgeometry/training.md)
+    - [Лист папира](wblgeometry/paper.md)
+    - [Столњак](wblgeometry/tablecloth.md)
+    - [Фудбалски терен](wblgeometry/footballfield.md)
+    - [Растојање тачака](wblgeometry/distanceofpoints.md)
+    - [Површина троугла датих темена](wblgeometry/areaoftrianglevertices.md)

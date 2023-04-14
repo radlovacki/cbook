@@ -2,7 +2,7 @@
 
 У табели испод дато је свих 128 ASCII кодова у декадном (DEC), окталном (OCT), хексадекадном (HEX) и карактер (CH) кодовима.
 
-```TEXT
+```text
 DEC OCT HEX CH    DEC OCT HEX CH    DEC OCT HEX CH    DEC OCT HEX CH
 ---------------   ---------------   ---------------   ---------------
 0   0   00  NUL   32  40  20  SPACE 64  100 40  @     96  140 60  `
@@ -46,12 +46,12 @@ ASCII кодови са декадним вредностима од 32 до 126
 
 int main(void)
 {
-	for (int i = 32; i < 127; i++)
-	{
-		printf("%c ", i);
-		if (i % 10 == 0)
-			printf("\n");
-	}
-	return 0;
+    for (int i = 32; i < 127; i++)
+    {
+        printf("%c ", i);
+        if (i % 10 == 0)
+        printf("\n");
+    }
+    return 0;
 }
 ```
